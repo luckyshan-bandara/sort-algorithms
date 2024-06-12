@@ -1,1 +1,1 @@
-Sort algorithms in java
+Sort algorithms & Search algorithms in java
